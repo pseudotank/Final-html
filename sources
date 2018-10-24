@@ -116,7 +116,7 @@ body {margin:5;font-family:Arial}
 <body>
 
 <div class="topnav" id="myTopnav">
-  <a href="Home">Home</a>
+  <a href="index.html">Home</a>
   <a href="lamborghini">lamborghini</a>
   <a href="mclaren">Mclaren</a>
   <a href="Koenigsegg">Koenigsegg </a>
