@@ -124,7 +124,7 @@ body {margin:5;font-family:Arial}
 <body>
 
 <div class="topnav" id="myTopnav">
-  <a href="Home">Home</a>
+  <a href="index.html">Home</a>
   <a href="lamborghini">lamborghini</a>
   <a href="mclaren" class="active">Mclaren</a>
   <a href="Koenigsegg">Koenigsegg </a>
@@ -193,7 +193,7 @@ function myFunction() {
 </p></center>
 <div style="margin:20px;">
 <center><img src="https://cdn.jamesedition.com/media/W1siZiIsImxpc3RpbmdfaW1hZ2VzLzIwMTcvMDgvMDIvMDgvMDQvMDkvZjE2ZTg3YjctNzMyYi00NmI2LTk1MDYtY2EyZjIxMWFmMGExLzM1MDUwX01DX1AxR1RSX1lFTExPV19CTEFDS18zNEYuanBnIl0sWyJwIiwidGh1bWIiLCIyMDAweCJdLFsicCIsIndhdGVybWFyayJdLFsicCIsImVuY29kZSIsImpwZyIsIi1zdHJpcCAtcXVhbGl0eSA4MCAtaW50ZXJsYWNlIFBsYW5lIl1d/mclaren-p1-gtr-stock-new-real-car-yellow-black.jpg?sha=018045542c2cc53d" align="left" height="500" border="0" style="Margin:0 10px 20px 20px; background:#E79851;" ></center>
-<p style="color:#000000">The Mclaren P1 was designed to be the best on, and off road sports car. With a  3.8-litre twin-turbo V8 petrol engine, and an electric motor makes the P1’s M838TQ, which output is 916  903 hp.
+<p style="color:#000000">The Mclaren P1 was designed to be the best on, and off road sports car. With a  3.8-litre twin-turbo V8 petrol engine, and an electric motor makes the P1’s M838TQ, which output is 916 ft-lb's of torque and 903 hp.
    Its electric motor provides it with instant torque, and 11 km range. The P1 with all of these assists can go from zero to 200 km/h in 6.8 seconds, and on to 300 km/h in 16.5 seconds.
 Raceactive Chassis Control (RCC) lowers the car about 50mm to increase overall speed.</p>
    </body>
