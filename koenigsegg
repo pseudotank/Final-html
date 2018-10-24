@@ -116,7 +116,7 @@ body {margin:5;font-family:Arial}
 <body>
 
 <div class="topnav" id="myTopnav">
-  <a href="Home">Home</a>
+  <a href="index.html">Home</a>
   <a href="lamborghini">lamborghini</a>
   <a href="mclaren">Mclaren</a>
   <a href="Koenigsegg" class="active">Koenigsegg </a>
@@ -175,6 +175,7 @@ function myFunction() {
               Known for there modern design, and flawless interiors, even old models keep up to date, and meet modern day CO2 emissions test.
             </p>
 </div>
+<br>
 <br>
 <br>
 <br>
